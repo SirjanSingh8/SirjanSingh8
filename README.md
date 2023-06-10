@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sirjan Singh</h1>
 <h3 align="center">A curious CS engineer</h3>
-<img align="right" width=400 alt="coding" src="https://tenor.com/view/coding-gif-27705874">
+<img align="right" width=400 alt="coding" src="![image-asset](https://github.com/SirjanSingh8/SirjanSingh8/assets/100493909/7a0b1f8d-3850-40c5-b601-c52cbec9752f)">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sirjansingh8&label=Profile%20views&color=0e75b6&style=flat" alt="sirjansingh8" /> </p>
 
 - 🌱 I’m currently learning **ML, deep learning**
