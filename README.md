@@ -3,8 +3,6 @@
 <img align="right" width=400 alt="coding" src="![image-asset](https://github.com/SirjanSingh8/SirjanSingh8/assets/100493909/59d1dda5-ffcf-4ce3-8cb0-4f8b62175e68)">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sirjansingh8&label=Profile%20views&color=0e75b6&style=flat" alt="sirjansingh8" /> </p>
 
-- 🌱 I’m currently learning **ML, deep learning**
-
 - 📫 How to reach me **sirjansingh1@gmail.com** // **+917837360606**
 
 <h3 align="left">Connect with me:</h3>
@@ -19,4 +17,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sirjansingh8&show_icons=true&locale=en&layout=compact" alt="sirjansingh8" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sirjansingh8&show_icons=true&locale=en" alt="sirjansingh8" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=peakanonymity&show_icons=true&locale=en" alt="peakanonymity" /></p>
